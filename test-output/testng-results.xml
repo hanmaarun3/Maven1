@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+      <class name="com.testNG.com.SimpleAnnotation">
+        <test-method status="PASS" signature="siteSetup()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="siteSetup" is-config="true" duration-ms="10" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteSetup -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="browser" is-config="true" duration-ms="0" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="url()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="url" is-config="true" duration-ms="0" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="login" is-config="true" duration-ms="0" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="addToCart()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="addToCart" duration-ms="4" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="logout" is-config="true" duration-ms="0" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="login" is-config="true" duration-ms="0" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="oneplusSearch()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="oneplusSearch" duration-ms="1" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneplusSearch -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="logout" is-config="true" duration-ms="0" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="close" is-config="true" duration-ms="1" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="verification()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="verification" is-config="true" duration-ms="0" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:com.testNG.com.SimpleAnnotation@6ebc05a6]" name="deleteCookies" is-config="true" duration-ms="1" started-at="2021-06-12T17:56:34 IST" finished-at="2021-06-12T17:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+      </class> <!-- com.testNG.com.SimpleAnnotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
